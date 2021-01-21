@@ -1,4 +1,6 @@
 # lemekap_globaljobs
+
+ensure lemekap_globaljobs in your server.cfg
 Global generic scenario playing mods in redm for VORP.CORE 2.0
 This script features Blip, ped  placement, a tool & ingredient(s) check, a basic scenario animation player and random rewards.
 Every job is customizable to suit your needs. This script can make any number of jobs as you need. (I've had this run with more than 30 different jobs no problems)
